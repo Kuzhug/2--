@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\4-ex\bin\Debug\net6.0\4-ex.exe
+C:\Users\Administrator\source\repos\4-ex\bin\Debug\net6.0\4-ex.deps.json
+C:\Users\Administrator\source\repos\4-ex\bin\Debug\net6.0\4-ex.runtimeconfig.json
+C:\Users\Administrator\source\repos\4-ex\bin\Debug\net6.0\4-ex.dll
+C:\Users\Administrator\source\repos\4-ex\bin\Debug\net6.0\4-ex.pdb
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.dll
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\refint\4-ex.dll
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.pdb
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\4-ex.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\4-ex\obj\Debug\net6.0\ref\4-ex.dll
